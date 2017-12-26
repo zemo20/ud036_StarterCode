@@ -1,6 +1,5 @@
 import media
 import fresh_tomatoes
-import tmdbsimple as tmdb
 import urllib.request
 import json
 
